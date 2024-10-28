@@ -14,7 +14,7 @@ const Navbar = () => {
   
   return (
     <div className="flex justify-between">
-      <div className="p-5">logo</div>
+      <div className="p-5 text-blue-950">logo</div>
       <div className="hidden sm:flex p-5 gap-2">
         <Link href='/'>home</Link>
         <Link href='/about'>home</Link>
